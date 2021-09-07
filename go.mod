@@ -4,7 +4,8 @@ go 1.15
 
 require (
 	k8s.io/apimachinery v0.20.0
-	k8s.io/kubernetes v1.20.0
+	k8s.io/apiserver v0.20.0
+	k8s.io/kubernetes v1.20.7
 )
 
 replace (
